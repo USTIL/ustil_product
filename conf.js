@@ -1,7 +1,7 @@
 const sql = {
   host:'localhost',
   user:'root',
-  password:'970501',
+  password:'',
   port:'3306',
   database:'ustil'
 };
